@@ -1,0 +1,24 @@
+.Plus {
+    cursor: pointer;
+    font-size: 10px;
+}
+
+.remove {
+    cursor: pointer;
+    position: relative;
+    top: 8px;
+}
+
+.updated {
+    position: absolute;
+    right: 30px;
+    top: 10px;
+}
+.circles{
+    position: relative;
+    font-size: 8px;
+    top: -1px;
+}
+.inline-block{
+    display: inline-block;
+}
